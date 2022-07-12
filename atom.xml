@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>子哥の小破站</title>
+  
+  <subtitle>从此只有眼前路，没有身后身</subtitle>
+  <link href="https://www.zigecn.eu.org/atom.xml" rel="self"/>
+  
+  <link href="https://www.zigecn.eu.org/"/>
+  <updated>2022-07-12T03:50:01.082Z</updated>
+  <id>https://www.zigecn.eu.org/</id>
+  
+  <author>
+    <name>子哥</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Github 访问慢？加速访问 Github 的两种方案，简单粗暴</title>
+    <link href="https://www.zigecn.eu.org/6ecb8f90.html"/>
+    <id>https://www.zigecn.eu.org/6ecb8f90.html</id>
+    <published>2022-07-12T03:21:49.000Z</published>
+    <updated>2022-07-12T03:50:01.082Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Github 有很多优质资源，甚至有些开源免费的资源，比付费的还好用。我不是经常会贴一些 Github 的链接，但贴的链接，有些人反应打不开。&lt;/p&gt;
+&lt;p&gt;今天我就分享几个常用的打开Github的方法：&lt;/p&gt;
+&lt;h1 id=&quot;修改本机的host文件&quot;&gt;&lt;a href=&quot;#修改本机的host文件&quot; class=&quot;headerlink&quot; title=&quot;修改本机的host文件&quot;&gt;&lt;/a&gt;修改本机的host文件&lt;/h1&gt;&lt;h2 id=&quot;原理&quot;&gt;&lt;a href=&quot;#原理&quot; class=&quot;headerlink&quot; title=&quot;原理&quot;&gt;&lt;/a&gt;原理&lt;/h2&gt;&lt;p&gt;像 Github 这种国际性大公司，肯定全球各个国家都部署了服务，虽然全球不同国家的用户都是访问同一个域名 ，比如，日本和美国的网友都访问 github.com，但背后访问的服务器不是同一个，为了提高访问速度，肯定优先访问本地服务器的服务。日本访问日本节点的服务器，美国访问美国节点的服务器。&lt;/p&gt;
+&lt;p&gt;本来访问Github就如同其他网页一样正常，但是Github在中国没有服务器，所以中国网友访问 github.com 就会解析到国外。由于众所周知的原因，GFW就把 github.com 给墙了&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>使用Github Pages和Gridea搭建个人博客</title>
+    <link href="https://www.zigecn.eu.org/85a4b1c9.html"/>
+    <id>https://www.zigecn.eu.org/85a4b1c9.html</id>
+    <published>2022-07-10T08:24:27.000Z</published>
+    <updated>2022-07-10T08:54:39.103Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;之前我写过一个关于如何使用Hexo博客系统搭建静态博客的博文：&lt;a href=&quot;https://www.zigecn.eu.org/9b2b00ac.html&quot;&gt;博客原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;有同学跟我说像Hexo这样的静态博客使用不方便，因为需要熟悉Git命令，对非计算机专业同学来说很不友好，增加了其学习成本。&lt;br&gt;不过我后来又发现了一个超级棒的静态博客写作客户端——Gridea。即使是非计算机同学，也能愉快地构建并管理博客。&lt;/p&gt;
+&lt;p&gt;本文，我就来教大家如何来使用Github Pages和Gridea来搭建个人博客~&lt;/p&gt;
+&lt;h1 id=&quot;关于Github-Pages&quot;&gt;&lt;a href=&quot;#关于Github-Pages&quot; class=&quot;headerlink&quot; title=&quot;关于Github Pages&quot;&gt;&lt;/a&gt;关于Github Pages&lt;/h1&gt;&lt;p&gt;官方文档：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;GitHub Pages 是一项静态站点托管服务，它直接从 GitHub 上的仓库获取 HTML、CSS 和 JavaScript 文件，（可选）通过构建过程运行文件，然后发布网站。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>免费申请EU.org顶级域名</title>
+    <link href="https://www.zigecn.eu.org/65fc21bd.html"/>
+    <id>https://www.zigecn.eu.org/65fc21bd.html</id>
+    <published>2022-07-05T07:07:11.000Z</published>
+    <updated>2022-07-10T08:27:37.734Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h1&gt;&lt;p&gt;“EU.org, free domain names since 1996”，至今已有二十多年的历史。&lt;br&gt;eu.org是欧盟组织下面的域名，EU代表欧盟，Paul Mockapetris在1996年的9-10月份创建了这个域名的DNS服务器。&lt;br&gt;现在对个人和组织（没见提是不是非盈利性）是免费注册的。貌似cloudflare，hstspreload.org 等大公司认可为顶级域名。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SSL证书为什么价格差距那么大？（附免费SSL证书）</title>
+    <link href="https://www.zigecn.eu.org/166d9192.html"/>
+    <id>https://www.zigecn.eu.org/166d9192.html</id>
+    <published>2022-07-04T08:48:10.000Z</published>
+    <updated>2022-07-10T08:27:31.085Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://baike.baidu.com/item/SSL%E8%AF%81%E4%B9%A6/5201468&quot;&gt;SSL证书&lt;/a&gt;市场品牌和种类众多，用户在选择证书的时候，也能随心所欲的购买到心仪的证书品牌类型。&lt;br&gt;但是也有不少用户在选购的时候，也不禁有疑问：不同的证书品牌和类型为什么价格相差如此之大？&lt;/p&gt;
+&lt;p&gt;确实，有的证书很便宜，甚至是免费使用，但是有的证书价格却高的出奇。出现这样情况的原因主要是由于品牌和证书类型，以及证书的售后服务方面的原因导致的。&lt;/p&gt;
+&lt;h1 id=&quot;证书价格差异大的原因&quot;&gt;&lt;a href=&quot;#证书价格差异大的原因&quot; class=&quot;headerlink&quot; title=&quot;证书价格差异大的原因&quot;&gt;&lt;/a&gt;证书价格差异大的原因&lt;/h1&gt;&lt;h2 id=&quot;1、证书品牌不同&quot;&gt;&lt;a href=&quot;#1、证书品牌不同&quot; class=&quot;headerlink&quot; title=&quot;1、证书品牌不同&quot;&gt;&lt;/a&gt;1、证书品牌不同&lt;/h2&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Office 365 E5 账号申请及永久续期教程</title>
+    <link href="https://www.zigecn.eu.org/ee2a51ed.html"/>
+    <id>https://www.zigecn.eu.org/ee2a51ed.html</id>
+    <published>2022-07-03T06:23:24.000Z</published>
+    <updated>2022-07-10T08:27:18.145Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;续订成功通知&lt;br&gt;&lt;img src=&quot;http://pdsqzlt.tk/zz.jpg&quot; alt=&quot;续订成功&quot; title=&quot;续订成功&quot;&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Github Pages+Hexo搭建静态博客并自定义域名</title>
+    <link href="https://www.zigecn.eu.org/9b2b00ac.html"/>
+    <id>https://www.zigecn.eu.org/9b2b00ac.html</id>
+    <published>2022-07-02T10:15:24.000Z</published>
+    <updated>2022-07-10T08:52:19.990Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文讲述的Hexo博客搭建主要是配合GitHub来进行部署，不需要购买任何服务器。&lt;br&gt;搭建大致分为三个流程：准备工作、安装Hexo以及部署在GitHub，下面介绍详细流程。&lt;br&gt;（PS：本博客就是使用Hexo+GitHub的方法搭建的）&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;一：准备工作&quot;&gt;&lt;a href=&quot;#一：准备工作&quot; class=&quot;headerlink&quot; title=&quot;一：准备工作&quot;&gt;&lt;/a&gt;一：准备工作&lt;/h1&gt;&lt;h2 id=&quot;1、下载Node-js，并进行安装（详见注意事项）&quot;&gt;&lt;a href=&quot;#1、下载Node-js，并进行安装（详见注意事项）&quot; class=&quot;headerlink&quot; title=&quot;1、下载Node.js，并进行安装（详见注意事项）&quot;&gt;&lt;/a&gt;1、下载&lt;a href=&quot;https://nodejs.org/en/&quot;&gt;Node.js&lt;/a&gt;，并进行安装（详见注意事项）&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;1.双击打开安装包&lt;br&gt; 2.疯狂点击下一步进行安装&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>这里是子哥の小破站</title>
+    <link href="https://www.zigecn.eu.org/dfdac00d.html"/>
+    <id>https://www.zigecn.eu.org/dfdac00d.html</id>
+    <published>2022-07-01T09:15:24.000Z</published>
+    <updated>2022-07-03T07:42:56.413Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;你好鸭，我是子哥&quot;&gt;&lt;a href=&quot;#你好鸭，我是子哥&quot; class=&quot;headerlink&quot; title=&quot;你好鸭，我是子哥 ~&quot;&gt;&lt;/a&gt;你好鸭，我是子哥 ~&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/lzh2665692/image/master/zige.jpg&quot; alt=&quot;blockchain&quot; title=&quot;区块链&quot;&gt;&lt;br&gt;我，一个啥也不懂的小白，终于花了两天时间，搭建了我的个人博客，由 &lt;strong&gt;Hexo&lt;/strong&gt; 强力驱动，使用 &lt;a href=&quot;https://github.com/Shen-Yu/hexo-theme-ayer&quot;&gt;Ayer&lt;/a&gt; 作为主题。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;下面，我想记录一下我的折腾历程~&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.zigecn.eu.org/4a17b156.html"/>
+    <id>https://www.zigecn.eu.org/4a17b156.html</id>
+    <published>2022-07-01T02:15:24.000Z</published>
+    <updated>2022-07-10T08:26:47.665Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
